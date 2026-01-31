@@ -313,10 +313,10 @@
         <mxCell id="hBh6VVIRFflbVStG9G3N-104" value="(8，10)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hBh6VVIRFflbVStG9G3N-105" value="（0，3）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hBh6VVIRFflbVStG9G3N-105" value="(8，11)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hBh6VVIRFflbVStG9G3N-106" value="（1，0）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hBh6VVIRFflbVStG9G3N-106" value="(9，8)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hBh6VVIRFflbVStG9G3N-107" value="（1，1）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
