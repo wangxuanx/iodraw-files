@@ -40,16 +40,16 @@
         <mxCell id="hBh6VVIRFflbVStG9G3N-13" value="（2，3）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hBh6VVIRFflbVStG9G3N-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hBh6VVIRFflbVStG9G3N-14" value="（3，0）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hBh6VVIRFflbVStG9G3N-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hBh6VVIRFflbVStG9G3N-15" value="（3，1）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hBh6VVIRFflbVStG9G3N-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hBh6VVIRFflbVStG9G3N-16" value="（3，0）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hBh6VVIRFflbVStG9G3N-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hBh6VVIRFflbVStG9G3N-17" value="（3，0）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
